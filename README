@@ -1,0 +1,22 @@
+# Meu Portfólio
+
+Este repositório é meu portfólio pessoal. Aqui você encontrará informações sobre mim, meus projetos, habilidades e como entrar em contato comigo.
+
+## Visão Geral
+
+Este portfólio foi desenvolvido para apresentar meus projetos pessoais, habilidades técnicas e experiência profissional. Ele inclui seções como:
+
+- Sobre Mim: Uma breve introdução sobre quem sou e minha paixão por desenvolvimento de software.
+- Projetos: Uma lista dos projetos que desenvolvi, incluindo uma breve descrição e links para seus repositórios ou sites ao vivo.
+- Contato: Informações de contato para facilitar a comunicação comigo.
+
+## Tecnologias Utilizadas
+
+Este projeto foi desenvolvido utilizando as seguintes tecnologias:
+
+- HTML5
+- CSS3 (com SASS)
+- JavaScript (com React.js)
+
+## AQUI ESTÁ O LINK PARA VIZUALIZAR MEU PORTFÓLIO
+[text](https://meuportifolio-beta.vercel.app/)

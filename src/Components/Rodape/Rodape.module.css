@@ -48,3 +48,14 @@
 .imageLevi {
     width: 60px;
 }
+
+@media (max-width: 1024px){
+    .rodape {
+        display: flex;
+        justify-content: space-between;
+    }
+
+    .button {
+        display: none;
+    }
+}
