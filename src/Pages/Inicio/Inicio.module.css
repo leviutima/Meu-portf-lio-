@@ -1,0 +1,53 @@
+.section {
+    padding: 3% 25% 3% 30%;
+}
+
+
+.containerBotao {
+    padding: 2% 0% 0% 22%;
+}
+
+.curriculoFoto {
+    width: 80%;
+    height: 90vh;
+    transition: transform .1s;
+}
+
+.curriculoFoto:hover {
+    transform: translate(0, -1rem);
+
+}
+
+.paragrafo {
+
+}
+
+
+@media (max-width: 744px) {
+    .section {
+        display: block;
+       padding: 16% 0% 5% 13%;
+    }
+
+
+    .containerBotao {
+
+    }
+
+    .containerParagrafo {
+        text-align: center;
+    }
+
+    .paragrafo {
+        text-align: center;
+    }
+
+    .imageContainer {
+        padding-right: 50px;
+    }
+
+    .curriculoFoto {
+        width: 100%;
+        height: 50%;
+    }
+}

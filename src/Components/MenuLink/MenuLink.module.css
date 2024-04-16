@@ -1,0 +1,17 @@
+.link {
+    font-size: 1.25rem;
+    line-height: 1.5rem;
+    color: var(--cor-suporte);
+    color: black;
+    position: sticky;   
+    top: 0; 
+    transition: transform .60s;
+}
+
+.link:hover{
+    transform: translate(0, -0.5rem);
+}
+
+.linkDestaque {
+    text-decoration: underline var(--cor-suporte);
+}
