@@ -1,9 +1,50 @@
 .rodape {
     background-color: var(--cor-principal);
     color: var(--branco);
-    padding: 2rem 0;
+    padding: 0.5rem ;
     display: flex;
-    justify-content: center;
+    justify-content: space-evenly;
     align-items: center;
     column-gap: .5rem;
+}
+
+.buttonContainer  {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    gap: 16px;
+    padding: 16px;   
+}
+
+.button {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid var(--botoes);
+    border-radius: 100%;
+    background-color: var(--botoes);
+    width: 3vw;
+    height: 5vh;
+    cursor: pointer;
+    transition: transform .60s;
+}
+
+.button:hover {
+    transform: translate(0, -0.5rem);
+}
+
+.image {
+    width: 80%;
+}
+
+.image__linkedin {
+    width: 60%;
+}
+
+.image__yt {
+    width: 70%;
+}
+
+.imageLevi {
+    width: 60px;
 }

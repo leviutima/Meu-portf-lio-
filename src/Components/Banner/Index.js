@@ -3,7 +3,7 @@ import minhaFoto from './WhatsApp Image 2024-04-08 at 8.33.18 PM (1).jpeg';
 
 export const Banner = () => {
     return(
-        <div className={styles.banner}>
+        <div className={styles.banner} id='main'>
             <div className={styles.apresentacao}>
                 <h1 className={styles.tituo}>BEM VINDO</h1>
                 <p className={styles.paragrafo}>

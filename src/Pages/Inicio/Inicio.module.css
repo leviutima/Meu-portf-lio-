@@ -4,7 +4,7 @@
 
 
 .containerBotao {
-    padding: 2% 0% 0% 22%;
+    padding: 2% 0% 0% 30%;
 }
 
 .curriculoFoto {
@@ -18,6 +18,10 @@
 
 }
 
+.containerParagrafo {
+    padding-left: 13%;
+}
+
 .paragrafo {
 
 }
@@ -25,13 +29,15 @@
 
 @media (max-width: 744px) {
     .section {
-        display: block;
-       padding: 16% 0% 5% 13%;
+        display: flex;
+        flex-direction: column; /* Empilhar os elementos verticalmente */
+        align-items: center; /* Centralizar os itens no eixo transversal */
+        padding: 16% 0% 5% 13%;
     }
 
 
     .containerBotao {
-
+        padding-right: 20%;
     }
 
     .containerParagrafo {
