@@ -27,7 +27,7 @@ export const Sobremim = () => {
         <p className={styles.paragrafo}> Sempre gostei de mexer no computador, seja para jogar ou passar o tempo.
         Nessa de jogar bastante no computador, comecei a querer entender como eram feito os jogos e plataformas que eu consumia.
         E então descobri o curso de Análise e Desenvolvimento de Sistemas.
-        Uma coisa que me chamou muita a atenção nesse mundo da programação foi o desafio, e isso é o que mais me encata nesse mundo.</p>
+        Uma coisa que me chamou muita a atenção nesse mundo da programação foi o desafio, e isso é o que mais me encanta nesse mundo.</p>
 
         <h3 className={styles.subtitulo} >Por que escolhi o Front-end?</h3>
 
